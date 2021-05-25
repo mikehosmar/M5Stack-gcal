@@ -5,8 +5,6 @@
 #include <HTTPClient.h>
 #include <M5Stack.h>
 #include <WiFi.h>
-#include <arduino-timer.h>
-
 #include <PubSubClient.h>
 
 // #include "display.h"
